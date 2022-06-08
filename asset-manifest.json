@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ticket-tracker/static/css/main.246346dd.css",
+    "main.js": "/ticket-tracker/static/js/main.531c16e8.js",
+    "static/js/787.99c52fad.chunk.js": "/ticket-tracker/static/js/787.99c52fad.chunk.js",
+    "index.html": "/ticket-tracker/index.html",
+    "main.246346dd.css.map": "/ticket-tracker/static/css/main.246346dd.css.map",
+    "main.531c16e8.js.map": "/ticket-tracker/static/js/main.531c16e8.js.map",
+    "787.99c52fad.chunk.js.map": "/ticket-tracker/static/js/787.99c52fad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.246346dd.css",
+    "static/js/main.531c16e8.js"
+  ]
+}
